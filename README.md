@@ -1,5 +1,5 @@
-# ArduinoDaySergipe
- Site do Evento Arduino Day Sergipe
+# Makeathon - IFS | Campus Lagarto
+ Site do Evento Makeathon
 
  # Para acessar o site:
- Veja em: https://arduinoweeksergipe.vercel.app/
+ Veja em: #
