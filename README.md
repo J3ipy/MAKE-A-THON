@@ -1,4 +1,4 @@
-> Em desenvolvimento
+> Em desenvolvimento ⚠️
 
 # Resumo do projeto
 Site feito para um hackathon realizado no IFS Campus Lagarto. <br>
@@ -9,3 +9,7 @@ Usei o Trello para organizar minhas task e tentei cumprir todas as task no menor
 - CSS3
 - JS
 - Bootstrap
+
+
+### Link
+Site: https://j3ipy.github.io/MAKE-A-THON/
