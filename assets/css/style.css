@@ -10,12 +10,12 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #2f3138;
+  color: #4771A1;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: #f82249;
+  color: #5546A0;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -23,7 +23,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #f8234a;
+  color: #da526b;
   outline: none;
   text-decoration: none;
 }
@@ -43,7 +43,7 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #0e1b4d;
+  color: #0d2eaf;
 }
 
 .main-page {
@@ -189,11 +189,11 @@ h6 {
 --------------------------------------------------------------*/
 .buy-tickets {
   color: #fff;
-  background: #f82249;
+  background: #9147A1;
   padding: 7px 22px;
   margin: 0 0 0 15px;
   border-radius: 50px;
-  border: 2px solid #f82249;
+  border: 2px solid #9147A1;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   line-height: 1;
@@ -843,7 +843,7 @@ h6 {
   border: none;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #0e1b4d;
+  background-color: #9147A1 ;
   color: #fff;
   padding: 10px 100px;
 }
@@ -867,7 +867,7 @@ h6 {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f82249;
+  background-color: #410e4d;
   color: #fff;
 }
 
