@@ -175,7 +175,7 @@ h6 {
 #header #logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 60px;
 }
 
 @media (max-width: 992px) {
@@ -940,31 +940,31 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Venue Section
+# minicursos Section
 --------------------------------------------------------------*/
-#venue {
+#minicursos {
   padding: 60px 0;
 }
 
-#venue .container-fluid {
+#minicursos .container-fluid {
   margin-bottom: 3px;
 }
 
-#venue .venue-map iframe {
+#minicursos .minicursos-map iframe {
   width: 100%;
   height: 100%;
   min-height: 300px;
 }
 
-#venue .venue-info {
-  background: url("../img/venue-info-bg.jpg") top center no-repeat;
+#minicursos .minicursos-info {
+  background: url("../img/minicursos-info-bg.jpg") top center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 60px;
   padding-bottom: 60px;
 }
 
-#venue .venue-info:before {
+#minicursos .minicursos-info:before {
   content: "";
   background: rgba(13, 20, 41, 0.8);
   position: absolute;
@@ -974,38 +974,38 @@ h6 {
   right: 0;
 }
 
-#venue .venue-info h3 {
+#minicursos .minicursos-info h3 {
   font-size: 36px;
   font-weight: 700;
   color: #fff;
 }
 
 @media (max-width: 574px) {
-  #venue .venue-info h3 {
+  #minicursos .minicursos-info h3 {
     font-size: 24px;
   }
 }
 
-#venue .venue-info p {
+#minicursos .minicursos-info p {
   color: #fff;
   margin-bottom: 0;
 }
 
-#venue .venue-gallery-container {
+#minicursos .minicursos-gallery-container {
   padding-right: 12px;
 }
 
-#venue .venue-gallery {
+#minicursos .minicursos-gallery {
   overflow: hidden;
   border-right: 3px solid #fff;
   border-bottom: 3px solid #fff;
 }
 
-#venue .venue-gallery img {
+#minicursos .minicursos-gallery img {
   transition: all ease-in-out 0.4s;
 }
 
-#venue .venue-gallery:hover img {
+#minicursos .minicursos-gallery:hover img {
   transform: scale(1.1);
 }
 
