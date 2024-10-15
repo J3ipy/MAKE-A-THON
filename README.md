@@ -1,4 +1,4 @@
-> Em desenvolvimento ⚠️
+> Concluído ✅
 
 # Resumo do projeto
 Site feito para um hackathon realizado no IFS Campus Lagarto. <br>
