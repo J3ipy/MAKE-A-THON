@@ -11,5 +11,5 @@ Usei o Trello para organizar minhas task e tentei cumprir todas as task no menor
 - Bootstrap
 
 
-### Link
+### Link do github pages
 Site: https://j3ipy.github.io/MAKE-A-THON/
