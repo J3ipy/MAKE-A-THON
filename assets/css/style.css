@@ -845,14 +845,13 @@ h6 {
 @media (max-width: 767px) {
   #schedule .nav-tabs a {
     padding: 10px 50px;
-    margin: 20px;
+    
   }
 }
 
 @media (max-width: 480px) {
   #schedule .nav-tabs a {
     padding: 10px 30px;
-    margin: 20px;
   }
 }
 
