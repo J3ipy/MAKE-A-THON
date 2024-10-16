@@ -18,8 +18,7 @@ Usei o Trello para organizar minhas task e tentei cumprir todas as task no menor
 
 <p>Print do site</p>
 
-![site](https://github.com/user-attachments/assets/16753711-1a7b-4e1c-9c91-e7de0e365a85)
-
+![image](https://github.com/user-attachments/assets/caf14bc6-8cb5-441b-a6f2-28371c8878b7)
 
 
 
